@@ -43,3 +43,10 @@ performance, and borrower behavior.
 
 ---
 *Analyst: Sachin Malee | MIS Analyst → Data Analyst | Mumbai*
+
+<img width="1416" height="790" alt="lending_club_page1" src="https://github.com/user-attachments/assets/1c9850af-1d63-4e88-8b0b-dd6fbc11b93c" />
+<img width="1416" height="792" alt="lending_club_page2" src="https://github.com/user-attachments/assets/8dbffa6b-181d-4555-878f-cab7755206a8" />
+<img width="1415" height="783" alt="lending_club_page3" src="https://github.com/user-attachments/assets/cd0aee4a-86e9-4c1f-9096-25fc1536cce9" />
+
+
+
